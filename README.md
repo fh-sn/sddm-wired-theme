@@ -13,7 +13,7 @@
 It does very bare minimum. Just login.
 ## Installation
 
-- clone this directory `git clone https://github.com/fh-sn/sddm-wired-theme`
+- clone this directory
 - copy directory to  `/usr/share/sddm/themes/` using `sudo cp -r sddm-wired-theme /usr/share/sddm/themes/`
 - install ```sddm``` ```qt5-multimedia```  ```qt5-quickcontrols``` ````noto-fonts````
 - set sddm as your current login manager ```systemctl enable sddm && systemctl start sddm```
